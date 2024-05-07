@@ -1,2 +1,2 @@
 # MNISTDigitNeuralNetwork
-Buildng a neural network from scratch 
+Building a neural network from scratch 
